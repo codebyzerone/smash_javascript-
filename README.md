@@ -1,2 +1,2 @@
-# smash_javascript-Manodip
+# smash_javascript-
 Learning javascript from scratch.
